@@ -15,6 +15,8 @@ e {
 
 ## Friday, 27.10.
 
+#### <a href="https://forms.gle/LMj5FE34rM6vwStk6">Attendance form</a>
+
 #### Readings (mandatory)
 
 <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/Tversky&Kahneman1973Heuristics&Biases.pdf">Tversky & Kahneman (1973)</a><br>
