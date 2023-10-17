@@ -7,7 +7,7 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'Syllabus',   path: 'menu', url: 'syllabus.html'}
-- {name: 'Agenda & Materials',   path: 'menu', url: 'materials.html'}
+- {name: 'Agenda',   path: 'menu', url: 'materials.html'}
 - {name: 'Debates',   path: 'menu', url: 'debatten.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
