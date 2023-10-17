@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Materialien & Agenda
+title: Agenda
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -35,7 +35,7 @@ e {
 #### Readings (mandatory)
 
 <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/YarkoniWestfall2017.pdf">Yarkoni & Westfall (2017)</a><br>
-<a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/RichGureckis2019.pdf">Rich & Gureckis (2019)</a>
+<a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/RichGureckis2019.pdf">Rich & Gureckis (2019)</a><br>
 <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/Tegmark2017Omegas.pdf">Tegmark (2017)</a>
 
 #### Schedule

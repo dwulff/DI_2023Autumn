@@ -19,8 +19,8 @@ The course is graded as PASS/FAIL. Students can receive a PASS if they fulfill t
 3. Passing both quizzes.  
 4. Active and passive participantion in two <a href="menu/debatten">Debates</a>
 
-## Agenda
-See <a href="materials">Agenda & Materials</a>
+## <a href="materials">Agenda</a>
+See <a href="materials">Agenda</a>
 
 ## Venue
 Seminar room 11
