@@ -12,6 +12,7 @@ e {
 }
 </style>
 
+<br><br>
 
 ## Friday, 27.10.
 
@@ -36,6 +37,8 @@ e {
 
 <a href="https://www.leancoffeetable.com/TaskBoard/View/c9150eed-8a81-4214-a7d0-0448a58116a0?guest=true">Join by clicking here</a>
 
+<br><br>
+
 ## Friday, 10.11.
 
 #### Readings (mandatory)
@@ -57,6 +60,8 @@ e {
 #### Lean coffee
 
 <a href="https://www.leancoffeetable.com/TaskBoard/View/c9150eed-8a81-4214-a7d0-0448a58116a0?guest=true">Join by clicking here</a>
+
+<br><br>
 
 ## Saturday, 11.11.
 
