@@ -32,6 +32,10 @@ e {
 14-15	Exercise: Real world decisions<br>
 15-16	Discussion: Lean coffee<br>
 
+#### Lean coffee
+
+<a href="https://www.leancoffeetable.com/TaskBoard/View/c9150eed-8a81-4214-a7d0-0448a58116a0?guest=true">Join by clicking here</a>
+
 ## Friday, 10.11.
 
 #### Readings (mandatory)
@@ -49,6 +53,10 @@ e {
 13-14	Terminology<br>
 14-15	Exercise: AI instructions<br>
 15-16	Discussion: Lean coffee
+
+#### Lean coffee
+
+<a href="https://www.leancoffeetable.com/TaskBoard/View/c9150eed-8a81-4214-a7d0-0448a58116a0?guest=true">Join by clicking here</a>
 
 ## Saturday, 11.11.
 
