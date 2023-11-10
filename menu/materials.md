@@ -67,11 +67,17 @@ e {
 
 #### Schedule
 
-9-10	Debate preparation<br>
-10-11	Debate preparation<br>
-11-12	Debate preparation<br>
-12-13	Lunch<br>
+9-10	Debate preparation (on your own)<br>
+10-11	Debate preparation (on your own)<br>
+11-12	Debate preparation (on your own)<br>
+11-12	Debate preparation (on your own)<br>
 13-14	Debate 1: Heuristics<br>
 14-15	Debate 2: AI<br>
 15-16	Wrap up
+
+<u>Resolutions</u><br>
+Debate 1: Health professionals should be permitted to rely more on heuristics<br>
+Debate 2: Artifical general intelligence will change the world for the better 
+
+
 
